@@ -1,0 +1,3 @@
+C:/Users/ETTC/CLionProjects/HonorRoll/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ETTC/CLionProjects/HonorRoll/cmake-build-debug/CMakeFiles/HonorRoll.dir
+C:/Users/ETTC/CLionProjects/HonorRoll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
